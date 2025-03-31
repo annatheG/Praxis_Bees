@@ -1052,374 +1052,6 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "UJC-HP-G-5-SMT-TR:UJC-HP-G-5-SMT-TR"
-			(pin_names
-				(offset 1.016)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "J"
-				(at -7.62 10.922 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left bottom)
-				)
-			)
-			(property "Value" "UJC-HP-G-5-SMT-TR"
-				(at -7.62 -13.462 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-				)
-			)
-			(property "Footprint" "UJC-HP-G-5-SMT-TR:CUI_UJC-HP-G-5-SMT-TR"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "MF" "Same Sky"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "MAXIMUM_PACKAGE_HEIGHT" "3.16mm"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "Package" "None"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "Price" "None"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "Check_prices" "https://www.snapeda.com/parts/UJC-HP-G-5-SMT-TR/Same+Sky/view-part/?ref=eda"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "STANDARD" "Manufacturer Recommendations"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "PARTREV" "1.02"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "SnapEDA_Link" "https://www.snapeda.com/parts/UJC-HP-G-5-SMT-TR/Same+Sky/view-part/?ref=snap"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "MP" "UJC-HP-G-5-SMT-TR"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "Description_1" "Type C, 20 Vdc, 3 A, Right Angle, Gold Flash, Surface Mount, Black Insulator, Power-Only USB Receptacle"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "Availability" "In Stock"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "MANUFACTURER" "CUI Devices"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(symbol "UJC-HP-G-5-SMT-TR_0_0"
-				(rectangle
-					(start -7.62 -12.7)
-					(end 7.62 10.16)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type background)
-					)
-				)
-				(pin power_in line
-					(at 12.7 7.62 180)
-					(length 5.08)
-					(name "VBUS"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "A9"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-				(pin power_in line
-					(at 12.7 7.62 180)
-					(length 5.08)
-					(name "VBUS"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "B9"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 12.7 2.54 180)
-					(length 5.08)
-					(name "CC1"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "A5"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 12.7 0 180)
-					(length 5.08)
-					(name "CC2"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "B5"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-				(pin power_in line
-					(at 12.7 -5.08 180)
-					(length 5.08)
-					(name "GND"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "A12"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-				(pin power_in line
-					(at 12.7 -5.08 180)
-					(length 5.08)
-					(name "GND"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "B12"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 12.7 -10.16 180)
-					(length 5.08)
-					(name "SHIELD"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "SH1"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 12.7 -10.16 180)
-					(length 5.08)
-					(name "SHIELD"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "SH2"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 12.7 -10.16 180)
-					(length 5.08)
-					(name "SHIELD"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "SH3"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 12.7 -10.16 180)
-					(length 5.08)
-					(name "SHIELD"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "SH4"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "power:GND"
 			(power)
 			(pin_numbers
@@ -1516,107 +1148,6 @@
 								(size 1.27 1.27)
 							)
 						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
-		(symbol "power:PWR_FLAG"
-			(power)
-			(pin_numbers
-				(hide yes)
-			)
-			(pin_names
-				(offset 0)
-				(hide yes)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "#FLG"
-				(at 0 1.905 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Value" "PWR_FLAG"
-				(at 0 3.81 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "~"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "Special symbol for telling ERC where power comes from"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "flag power"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "PWR_FLAG_0_0"
-				(pin power_out line
-					(at 0 0 90)
-					(length 0)
-					(name "~"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(symbol "PWR_FLAG_0_1"
-				(polyline
-					(pts
-						(xy 0 0) (xy 0 1.27) (xy -1.016 1.905) (xy 0 2.54) (xy 1.016 1.905) (xy 0 1.27)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
 					)
 				)
 			)
@@ -1795,12 +1326,6 @@
 		(uuid "02b19ee3-c45a-4324-b65a-ec69b4d8e975")
 	)
 	(junction
-		(at 50.8 172.72)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "078cddee-b83c-4682-8bcb-bd963394c88b")
-	)
-	(junction
 		(at 203.2 101.6)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1843,12 +1368,6 @@
 		(uuid "5bf3794e-1a2c-4eb9-810a-c3fc72528813")
 	)
 	(junction
-		(at 46.99 160.02)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "67df3a16-0cc4-4dd9-854b-494a15270788")
-	)
-	(junction
 		(at 48.26 110.49)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1865,12 +1384,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "79697c9a-ee52-4d4d-82e7-c65cf6f73227")
-	)
-	(junction
-		(at 50.8 167.64)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "9c5081b9-2146-4815-9378-d2fe5a56c14f")
 	)
 	(junction
 		(at 191.77 101.6)
@@ -1908,13 +1421,9 @@
 		(at 243.84 85.09)
 		(uuid "8264a756-c5e9-4ffe-9b8e-7db12c377ca9")
 	)
-	(no_connect
-		(at 60.96 177.8)
-		(uuid "a5d5280f-7303-400e-8f0e-c5e5ec8bd9fb")
-	)
 	(wire
 		(pts
-			(xy 52.07 148.59) (xy 59.69 148.59)
+			(xy 48.26 139.7) (xy 55.88 139.7)
 		)
 		(stroke
 			(width 0)
@@ -1951,16 +1460,6 @@
 			(type default)
 		)
 		(uuid "059372d7-545d-402c-8941-c0c3e2dbf893")
-	)
-	(wire
-		(pts
-			(xy 46.99 160.02) (xy 60.96 160.02)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "080da4ad-1fa5-47c8-b443-2e3a26c2c613")
 	)
 	(wire
 		(pts
@@ -2101,16 +1600,6 @@
 			(type default)
 		)
 		(uuid "56b44c21-af25-4cec-9dc5-fd75450aad41")
-	)
-	(wire
-		(pts
-			(xy 50.8 172.72) (xy 50.8 180.34)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5cb02ba7-b471-43a7-b46c-fb1f61bd640a")
 	)
 	(wire
 		(pts
@@ -2394,26 +1883,6 @@
 	)
 	(wire
 		(pts
-			(xy 60.96 167.64) (xy 58.42 167.64)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b2980bc8-c69f-4538-a800-95f4a602b274")
-	)
-	(wire
-		(pts
-			(xy 58.42 165.1) (xy 60.96 165.1)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b5643106-192d-4a23-88bd-fbf3946520fe")
-	)
-	(wire
-		(pts
 			(xy 203.2 101.6) (xy 250.19 101.6)
 		)
 		(stroke
@@ -2474,16 +1943,6 @@
 	)
 	(wire
 		(pts
-			(xy 50.8 172.72) (xy 60.96 172.72)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d668e547-76d7-4be7-90d7-188d1625187b")
-	)
-	(wire
-		(pts
 			(xy 149.86 43.18) (xy 156.21 43.18)
 		)
 		(stroke
@@ -2521,16 +1980,6 @@
 			(type default)
 		)
 		(uuid "e0a68c13-00df-42f5-bab0-3d52bbf54ce3")
-	)
-	(wire
-		(pts
-			(xy 50.8 167.64) (xy 50.8 172.72)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e21bde02-dea7-43d4-af1a-d164a3fec57a")
 	)
 	(wire
 		(pts
@@ -2624,16 +2073,6 @@
 	)
 	(wire
 		(pts
-			(xy 50.8 165.1) (xy 50.8 167.64)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f79bb3bd-a443-4292-ad4f-cc96ac33fc9d")
-	)
-	(wire
-		(pts
 			(xy 127 60.96) (xy 160.02 60.96)
 		)
 		(stroke
@@ -2663,7 +2102,7 @@
 		(uuid "4dcda97c-fd1e-4d7c-ba8f-c8699a612dc7")
 	)
 	(label "output"
-		(at 59.69 148.59 180)
+		(at 55.88 139.7 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3686,73 +3125,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:VCC")
-		(at 46.99 160.02 0)
-		(mirror y)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "2d2264d3-bf97-4cc8-8a6c-8d8c477521ce")
-		(property "Reference" "#PWR012"
-			(at 46.99 163.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "VCC"
-			(at 46.99 154.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 46.99 160.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 46.99 160.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"VCC\""
-			(at 46.99 160.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "43c87410-7dcb-4aba-a958-dcbecc980983")
-		)
-		(instances
-			(project "Praxis_BeeFreq"
-				(path "/193cc738-4da3-4a20-8bd3-3066d72b1d72"
-					(reference "#PWR012")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:C")
 		(at 91.44 101.6 180)
 		(unit 1)
@@ -3888,7 +3260,7 @@
 	)
 	(symbol
 		(lib_id "power:VCC")
-		(at 52.07 143.51 0)
+		(at 48.26 134.62 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3897,7 +3269,7 @@
 		(fields_autoplaced yes)
 		(uuid "388c866b-8934-48a0-a26b-d2fde5c40e78")
 		(property "Reference" "#PWR09"
-			(at 52.07 147.32 0)
+			(at 48.26 138.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3906,7 +3278,7 @@
 			)
 		)
 		(property "Value" "VCC"
-			(at 52.07 138.43 0)
+			(at 48.26 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3914,7 +3286,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 52.07 143.51 0)
+			(at 48.26 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3923,7 +3295,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 52.07 143.51 0)
+			(at 48.26 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3932,7 +3304,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"VCC\""
-			(at 52.07 143.51 0)
+			(at 48.26 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3978,7 +3350,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_Wire:SolderWire-0.1sqmm_1x02_P3.6mm_D0.4mm_OD1mm"
+		(property "Footprint" "Connector_Wire:SolderWire-2sqmm_1x02_P7.8mm_D2mm_OD3.9mm"
 			(at 35.56 113.03 0)
 			(effects
 				(font
@@ -4395,140 +3767,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:PWR_FLAG")
-		(at 46.99 160.02 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "6d91dd11-5c10-4860-9303-0977fe80e8fc")
-		(property "Reference" "#FLG03"
-			(at 45.085 160.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "PWR_FLAG"
-			(at 43.18 160.0199 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 46.99 160.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 46.99 160.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Special symbol for telling ERC where power comes from"
-			(at 46.99 160.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "7e1311cb-51a7-45fc-ab39-676f8832000c")
-		)
-		(instances
-			(project "Praxis_BeeFreq"
-				(path "/193cc738-4da3-4a20-8bd3-3066d72b1d72"
-					(reference "#FLG03")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 54.61 167.64 90)
-		(mirror x)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "71d1deff-5a92-4a22-ade4-f3700f0334ce")
-		(property "Reference" "R6"
-			(at 54.61 173.99 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "5.1k"
-			(at 54.61 171.45 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
-			(at 54.61 165.862 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 54.61 167.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 54.61 167.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "cb84542c-845d-4289-ae4c-a876f2391ce3")
-		)
-		(pin "1"
-			(uuid "ef3c0694-85c8-4e73-a5a9-6e126b511d70")
-		)
-		(instances
-			(project "Praxis_BeeFreq"
-				(path "/193cc738-4da3-4a20-8bd3-3066d72b1d72"
-					(reference "R6")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:C")
 		(at 180.34 92.71 0)
 		(unit 1)
@@ -4547,7 +3785,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10n"
+		(property "Value" "11n"
 			(at 184.15 93.9799 0)
 			(effects
 				(font
@@ -4668,7 +3906,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x03_Pin")
-		(at 46.99 146.05 0)
+		(at 43.18 137.16 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4676,7 +3914,7 @@
 		(dnp no)
 		(uuid "8a3b6002-3558-49d7-8d2a-0aea930457a7")
 		(property "Reference" "J1"
-			(at 37.338 144.018 0)
+			(at 33.528 135.128 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4684,7 +3922,7 @@
 			)
 		)
 		(property "Value" "Conn_01x03_Pin"
-			(at 37.338 147.066 0)
+			(at 33.528 138.176 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4692,7 +3930,7 @@
 			)
 		)
 		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical"
-			(at 46.99 146.05 0)
+			(at 43.18 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4701,7 +3939,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 46.99 146.05 0)
+			(at 43.18 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4710,7 +3948,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x03, script generated"
-			(at 46.99 146.05 0)
+			(at 43.18 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4801,219 +4039,6 @@
 			(project "Praxis_BeeFreq"
 				(path "/193cc738-4da3-4a20-8bd3-3066d72b1d72"
 					(reference "R11")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "UJC-HP-G-5-SMT-TR:UJC-HP-G-5-SMT-TR")
-		(at 73.66 167.64 0)
-		(mirror y)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "8e516e4d-5b54-4452-8b8d-4644c5b5d4d1")
-		(property "Reference" "J2"
-			(at 73.66 152.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "UJC-HP-G-5-SMT-TR"
-			(at 73.66 154.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "UJC-HP-G-5-SMT-TR:CUI_UJC-HP-G-5-SMT-TR"
-			(at 73.66 167.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 73.66 167.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 73.66 167.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MF" "Same Sky"
-			(at 73.66 167.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MAXIMUM_PACKAGE_HEIGHT" "3.16mm"
-			(at 73.66 167.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Package" "None"
-			(at 73.66 167.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Price" "None"
-			(at 73.66 167.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Check_prices" "https://www.snapeda.com/parts/UJC-HP-G-5-SMT-TR/Same+Sky/view-part/?ref=eda"
-			(at 73.66 167.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "STANDARD" "Manufacturer Recommendations"
-			(at 73.66 167.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "PARTREV" "1.02"
-			(at 73.66 167.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "SnapEDA_Link" "https://www.snapeda.com/parts/UJC-HP-G-5-SMT-TR/Same+Sky/view-part/?ref=snap"
-			(at 73.66 167.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MP" "UJC-HP-G-5-SMT-TR"
-			(at 73.66 167.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Description_1" "Type C, 20 Vdc, 3 A, Right Angle, Gold Flash, Surface Mount, Black Insulator, Power-Only USB Receptacle"
-			(at 73.66 167.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Availability" "In Stock"
-			(at 73.66 167.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER" "CUI Devices"
-			(at 73.66 167.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(pin "SH3"
-			(uuid "f952cd23-3470-4628-947e-bfe0d50e1779")
-		)
-		(pin "A12"
-			(uuid "128eb808-2e12-4129-8522-2e453cc751d4")
-		)
-		(pin "B5"
-			(uuid "ca39bee6-5c5e-42b7-9287-d375d8256ff6")
-		)
-		(pin "A5"
-			(uuid "c8163b37-5eef-4849-9c38-600dc2878203")
-		)
-		(pin "SH4"
-			(uuid "ce920f22-7ca3-4060-ac19-4126fd35271a")
-		)
-		(pin "SH1"
-			(uuid "3bc3bbee-1cc2-4345-b1fc-8b13dd03bc48")
-		)
-		(pin "A9"
-			(uuid "1ef1f371-4044-41a3-b444-4030ff7eee78")
-		)
-		(pin "SH2"
-			(uuid "70b99fbb-ce94-4f43-9b92-2d43e7f43915")
-		)
-		(pin "B9"
-			(uuid "267fb347-8016-48f8-a0aa-5d608e321054")
-		)
-		(pin "B12"
-			(uuid "ddd55eef-3412-45e5-98c1-0392fb0f216e")
-		)
-		(instances
-			(project ""
-				(path "/193cc738-4da3-4a20-8bd3-3066d72b1d72"
-					(reference "J2")
 					(unit 1)
 				)
 			)
@@ -5153,7 +4178,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 52.07 146.05 90)
+		(at 48.26 137.16 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5162,7 +4187,7 @@
 		(fields_autoplaced yes)
 		(uuid "afe591b9-2a56-4644-88e5-d7cd8204b5ac")
 		(property "Reference" "#PWR011"
-			(at 58.42 146.05 0)
+			(at 54.61 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5171,7 +4196,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 55.88 146.0499 90)
+			(at 52.07 137.1599 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5180,7 +4205,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 52.07 146.05 0)
+			(at 48.26 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5189,7 +4214,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 52.07 146.05 0)
+			(at 48.26 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5198,7 +4223,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 52.07 146.05 0)
+			(at 48.26 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5723,74 +4748,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R")
-		(at 54.61 165.1 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "e15724b7-60c1-46ea-be8c-160482840f2a")
-		(property "Reference" "R5"
-			(at 54.61 158.75 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "5.1k"
-			(at 54.61 161.29 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
-			(at 54.61 166.878 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 54.61 165.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 54.61 165.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "51e2805b-3a33-4d7b-b2f4-7004ac135a15")
-		)
-		(pin "1"
-			(uuid "9458b77d-c6c9-420d-8028-1651459cf039")
-		)
-		(instances
-			(project "Praxis_BeeFreq"
-				(path "/193cc738-4da3-4a20-8bd3-3066d72b1d72"
-					(reference "R5")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 95.25 72.39 0)
 		(unit 1)
@@ -5987,72 +4944,6 @@
 			(project "Praxis_BeeFreq"
 				(path "/193cc738-4da3-4a20-8bd3-3066d72b1d72"
 					(reference "R4")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 50.8 180.34 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "f29bac86-95b2-4338-9ba2-d264a69a97ca")
-		(property "Reference" "#PWR013"
-			(at 50.8 186.69 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 50.8 185.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 50.8 180.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 50.8 180.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 50.8 180.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "e25b7ae2-fbf3-4fbf-9e7e-4525845a8526")
-		)
-		(instances
-			(project "Praxis_BeeFreq"
-				(path "/193cc738-4da3-4a20-8bd3-3066d72b1d72"
-					(reference "#PWR013")
 					(unit 1)
 				)
 			)
